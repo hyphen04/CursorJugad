@@ -61,11 +61,3 @@ storage.json.backup_YYYYMMDD_HHMMSS
 ## Disclaimer
 
 This tool is for educational purposes only. Modifying software configurations may violate terms of service. Use responsibly and at your own risk.
-
-## License
-
-[Your chosen license]
-
-## Contributing
-
-Feel free to submit issues and enhancement requests! 
